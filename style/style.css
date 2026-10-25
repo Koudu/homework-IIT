@@ -1,0 +1,12 @@
+body {
+    display: grid;
+    background-color: rgb(203, 173, 223);
+}
+
+img {
+    padding-top: 10px;
+}
+video {
+    padding-top: 10px;
+    width: 700px;
+}
